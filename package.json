@@ -1,0 +1,22 @@
+{
+  "name": "veazur-panel",
+  "version": "0.0.1",
+  "description": "a lightweighted panel that support udocker and podman",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veazur/panel.git"
+  },
+  "keywords": [
+    "panel"
+  ],
+  "author": "playstation451",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veazur/panel/issues"
+  },
+  "homepage": "https://github.com/veazur/panel#readme"
+}
