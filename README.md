@@ -1,2 +1,2 @@
 # panel
-a lightweighted panel that support udocker and podman
+a lightweighted panel that is not in docker
